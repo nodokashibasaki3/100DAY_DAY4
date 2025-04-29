@@ -4,11 +4,11 @@ A minimal productivity tool that helps you stay on task by **automatically captu
 
 ## ✨ What It Does
 
-- 🖱️ One-click task tracking — just press **Add Task**
-- 🧠 Automatically fetches the **active app or browser tab**
-- 🤖 Uses **OpenAI API** to generate a **smart, descriptive title** for each task
-- 🧭 Prevents mindless tab switching and forgetting what you were doing
-- ✅ Helps build focus and intention by logging actual activity
+- One-click task tracking — just press **Add Task**
+- Automatically fetches the **active app or browser tab**
+- Uses **OpenAI API** to generate a **smart, descriptive title** for each task
+- Prevents mindless tab switching and forgetting what you were doing
+- Helps build focus and intention by logging actual activity
 
 ## 🧪 Example
 
@@ -21,10 +21,10 @@ Suppose you're on a tab with a Zoom meeting, or coding in VSCode. When you hit *
 
 ## 📦 Features
 
-- 🚀 Instant task logging from current app/browser
-- 🧠 AI-powered task naming (via OpenAI API)
-- 📜 History log of tasks you've worked on
-- 🔁 Prevents task-hopping with intention-based logging
+- Instant task logging from current app/browser
+- AI-powered task naming (via OpenAI API)
+- History log of tasks you've worked on
+- Prevents task-hopping with intention-based logging
 
 ## 📋 Why This Matters
 
