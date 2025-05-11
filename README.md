@@ -1,4 +1,4 @@
-# 🧠 Focus Tracker – Automatic Task Logger
+# Focus Tracker – Automatic Task Logger
 
 A minimal productivity tool that helps you stay on task by **automatically capturing the app or browser tab you're working in**. No need to manually enter what you're doing — just click **"Add Task"**, and let the app do the rest.
 
