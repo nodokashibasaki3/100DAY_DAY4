@@ -38,7 +38,7 @@ By building a real-time log of your activity with smart titles, you're able to:
 - Stay grounded in what you're doing
 - Avoid scattering your attention across apps
 
-## 🛠Tech Stack
+## Tech Stack
 
 - Python / JavaScript backend
 - [OpenAI API](https://openai.com/api) for natural language task naming
